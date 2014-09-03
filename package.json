@@ -6,16 +6,18 @@
   "main": "index.js",
   "bin": "bin/nspCLI.js",
   "bugs": "https://github.com/nodesecurity/nsp/issues",
-  "engines" : { "node" : ">=0.10.0" },
+  "engines": {
+    "node": ">=0.10.0"
+  },
   "dependencies": {
     "async": "^0.9.0",
     "celeri": "git://github.com/diasdavid/celeri",
-    "cli-color": "^0.3.2",
-    "connect": "^2.7.5",
+    "chalk": "^0.5.1",
+    "connect": "^3.1.1",
     "node-print": "0.0.4",
-    "npmconf": "^1.1.5",
+    "npmconf": "^2.0.8",
     "osenv": "^0.1.0",
-    "request": "~2.40.0",
+    "request": "^2.40.0",
     "semver": "^3.0.1",
     "silent-npm-registry-client": "0.0.0",
     "strscanner": "0.0.8",
