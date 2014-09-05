@@ -1,11 +1,9 @@
-# Node Security Project 
-**Command Line Tools**
+![](https://nodesecurity.io/img/nodesecurity.png)
+
+Node Security Project **Command Line Tools**
 
 ## Badgers
 [![Dependency Status](https://david-dm.org/nodesecurity/nsp.png)](https://david-dm.org/nodesecurity/nsp)
-
-![](https://nodesecurity.io/img/nodesecurity.png)
-
 
 ## Installation
 
