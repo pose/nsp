@@ -3,7 +3,7 @@
   "description": "Node Security Project command line tool",
   "version": "0.2.5",
   "author": "Node Security Project",
-  "main": "index.js",
+  "main": "lib/nspStream.js",
   "bin": "bin/nspCLI.js",
   "bugs": "https://github.com/nodesecurity/nsp/issues",
   "engines": {

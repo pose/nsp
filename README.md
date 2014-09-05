@@ -41,3 +41,11 @@ $ nsp audit-package
 Name     Installed  Patched  Vulnerable Dependency
 connect    2.7.5    >=2.8.1  nodesecurity-jobs > kue > express
 ```
+
+
+## TODO
+
+- [ ] Make tests first!
+- [ ] Make the review of each dependency work as a stream, so things like https://github.com/nodesecurity/nsp/issues/11 don't happen
+- [ ] Contribute to celeri and do a major code refactor and fix of issues
+- [ ] Finish lib/nspStream.js to enable https://github.com/nodesecurity/nsp/issues/6
