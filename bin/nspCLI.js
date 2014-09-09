@@ -4,7 +4,7 @@ var celeri = require('celeri');
 var speller = require('speller');
 require('./../commands');
 
-var commands = ['package', 'audit-package', 'shrinkwrap', 'audit-shrinkwrap'];
+var commands = ['package', 'audit-package', 'shrinkwrap', 'audit-shrinkwrap', 'version'];
 
 celeri.parse(process.argv, function (err, cmd) {
 
